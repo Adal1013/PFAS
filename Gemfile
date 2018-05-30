@@ -22,7 +22,7 @@ gem 'devise'
 gem 'jquery-rails'
 gem 'jquery-datatables'
 gem 'jquery-turbolinks'
-
+gem "cancan"
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
